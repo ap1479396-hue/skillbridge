@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge - Academia-Industry Collaboration Portal",
+  "description": "Portal for Academia-Industry Collaboration for Skill Mapping, Internships, Placement Matching, Skill-Gap Analysis, and AI Career Roadmaps (SIH Problem 26044).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
